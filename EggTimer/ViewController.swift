@@ -18,6 +18,8 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var topTitle: UILabel!
     
+    @IBOutlet weak var progressBar: UIProgressView!
+    
     @IBAction func hardnessSelected(_ sender: UIButton) {
         
         timer.invalidate()
