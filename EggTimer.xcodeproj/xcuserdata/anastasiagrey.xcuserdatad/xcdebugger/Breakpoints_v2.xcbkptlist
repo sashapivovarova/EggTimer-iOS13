@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "81D16A59-D677-42EF-B812-1DEDB5E9CB66"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88D333BF-5F4B-42D6-B402-6DF94E7F9387"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EggTimer/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "88D333BF-5F4B-42D6-B402-6DF94E7F9387 - cf9ffa0d32b25ce0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EggTimer.ViewController.hardnessSelected(__C.UIButton) -&gt; ()"
+                  moduleName = "EggTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anastasiagrey/StudioProjects/EggTimer-iOS13/EggTimer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "88D333BF-5F4B-42D6-B402-6DF94E7F9387 - 5156512d9c149568"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EggTimer.ViewController.progressBar.getter : Swift.Optional&lt;__C.UIProgressView&gt;"
+                  moduleName = "EggTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anastasiagrey/StudioProjects/EggTimer-iOS13/EggTimer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  uuid = "88D333BF-5F4B-42D6-B402-6DF94E7F9387 - 40f7828358f09d64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EggTimer.ViewController.progressBar.setter : Swift.Optional&lt;__C.UIProgressView&gt;"
+                  moduleName = "EggTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anastasiagrey/StudioProjects/EggTimer-iOS13/EggTimer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "88D333BF-5F4B-42D6-B402-6DF94E7F9387 - ea65022c6a8664d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EggTimer.ViewController.progressBar.modify : Swift.Optional&lt;__C.UIProgressView&gt;"
+                  moduleName = "EggTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anastasiagrey/StudioProjects/EggTimer-iOS13/EggTimer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "88D333BF-5F4B-42D6-B402-6DF94E7F9387 - 8bf239168c5eb775"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EggTimer.ViewController.progressBar.modify : Swift.Optional&lt;__C.UIProgressView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "EggTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anastasiagrey/StudioProjects/EggTimer-iOS13/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "88D333BF-5F4B-42D6-B402-6DF94E7F9387 - 2b59092b577b2684"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EggTimer.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; EggTimer.ViewController"
+                  moduleName = "EggTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anastasiagrey/StudioProjects/EggTimer-iOS13/EggTimer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "531">
+               </Location>
+               <Location
+                  uuid = "88D333BF-5F4B-42D6-B402-6DF94E7F9387 - 60ec041cb1311a7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EggTimer.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;EggTimer.ViewController&gt;"
+                  moduleName = "EggTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anastasiagrey/StudioProjects/EggTimer-iOS13/EggTimer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "482">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
